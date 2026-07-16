@@ -9,7 +9,7 @@ if user_choice in choices:
 	print(f'You chose {user_choice}')
 	
 else:
-	print('chose for rock,paper,scissors')
+	print('chose form rock,paper,scissors')
 
 computer_choice = random.choice(choices)
 
